@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Enabled": true,
+	"Version": 2,
+	"SemVersion": "2.0.1",
+	"VersionName": "2.0.1",
+	"FriendlyName": "Passivemode",
+	"Description": "Removes all hostiles from the game.",
+	"Category": "Modding",
+	"CreatedBy": "MilesNocte",
+	"CreatedByURL": "https://ficsit.app/mod/2dZqY8fZ4tQ9kg",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+            {
+          	"Name": "SML",
+		"Enabled": true,
+          	"SemVersion": "^3.3.2"
+            }
+        ]
+}
