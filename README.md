@@ -10,9 +10,13 @@ Follow the steps found here [Unreal Engine 4 (Custom Engine)](https://docs.ficsi
 
 ## Wwise
 
-* Packages
+### Packages
+
 Authoring -> SDK (C++)
+
 Deployment Platforms -> Apple -> macOS
+
 Deployment Platforms -> Microsoft -> Windows -> Visual Studio 2017 & Visual Studio 2019
+
 
 ## [Satisfactory Mod Manager](https://smm.ficsit.app/)
